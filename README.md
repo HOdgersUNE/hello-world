@@ -1,2 +1,6 @@
 # hello-world
 Testing for HINQ302, creating my first repo
+# Hayley's Attempt 1
+Project for HINQ 302 
+## Semester One 2022
+### University of New England
